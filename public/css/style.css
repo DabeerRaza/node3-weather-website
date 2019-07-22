@@ -1,0 +1,45 @@
+body {
+  margin: 0 auto;
+  max-width: 955px;
+  width: 955px;
+  padding: 0;
+  font-family: arial;
+}
+
+header h1 {
+  color: gray;
+  font-size: 60px;
+  text-align: center;
+}
+img {
+  width: 250px;
+}
+ul {
+  list-style: none;
+  float: left;
+  width: 100%;
+  padding: 0px;
+  background: firebrick;
+}
+
+ul li {
+  float: left;
+  color: white;
+  margin: 0 20px 0 0;
+}
+ul li a {
+  width: 100%;
+  display: block;
+  padding: 11px;
+}
+ul li:hover {
+  background: black;
+}
+
+footer {
+  background: black;
+  color: white;
+  font-size: 30px;
+  padding: 20px 0px;
+  text-align: center;
+}
