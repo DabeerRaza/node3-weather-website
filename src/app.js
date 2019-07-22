@@ -20,7 +20,7 @@ hbs.registerPartials(partialsPath);
 app.get("", (req, res) => {
   res.render("index", {
     title: "index",
-    name: "Dabeer Raza"
+    name: "Dabeer-Raza"
   });
 });
 
